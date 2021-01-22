@@ -1,4 +1,5 @@
 # Sudoku-Solver
+![Image-1](images/image1.png)
 
 ### This project is based on the Sudoku Game which you all must played in your childhood days.
 
