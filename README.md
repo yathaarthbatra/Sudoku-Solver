@@ -1,5 +1,7 @@
 # Sudoku-Solver
-![Image-1](images/image1.png)
+![](images/image1.PNG)
+![](images/image2.PNG)
+![](images/image3.PNG)
 
 ### This project is based on the Sudoku Game which you all must played in your childhood days.
 
